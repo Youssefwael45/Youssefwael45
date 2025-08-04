@@ -48,31 +48,23 @@ Arab Academy for Science, Technology and Maritime Transport
 
 ## 📜 Certifications
 
-Python Specialization (University of Michigan):
+### Python Specialization – *University of Michigan*
+- **Python to Access Web Data**
+- **Python Data Structures**
+- **Python Fundamentals**
 
-Python to Access Web Data
+### Data Science – *IBM*
+- **Tools for Data Science**
+- **What is Data Science**
 
-Python Data Structures
+### Professional Development
+- **ALX - AI Augmented Professional Development Skills Program**
+- **AI Augmented Professional Skills** – *ALX*
+- **Data Science & Analytics** – *HP LIFE*
+- **Effective Leadership** – *HP LIFE*
+- **Presenting Data** – *HP LIFE*
+- **Effective Presentations** – *HP LIFE*
 
-Python Fundamentals
-
-Data Science (IBM):
-
-Tools for Data Science
-
-What is Data Science
-
-Professional Development:
-
-AI Augmented Professional Skills (ALX)
-
-Data Science & Analytics (HP LIFE)
-
-Effective Leadership (HP LIFE)
-
-Presenting Data (HP LIFE)
-
-Effective Presentations (HP LIFE)
 
 ---
 
@@ -99,14 +91,7 @@ Effective Presentations (HP LIFE)
 
 ---
 
-## 📂 Featured Projects
 
-*   **FixFinder - Home Repair Database Project:** An Oracle database project simulating an online home repair and maintenance service.
-    *   [View Project](https://github.com/Youssefwael45/FixFinder-Database-Project)
-*   **Final Project Data Science (Coursera):** A data science project focusing on data analysis and interpretation using Python.
-    *   [View Project](https://github.com/Youssefwael45/Final_Project_Data_Science) *(If it exists)*
-
----
 
 ## 📬 Let's Connect
 
