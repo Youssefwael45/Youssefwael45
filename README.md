@@ -2,16 +2,15 @@
 
 ---
 
-## 📊 Youssef Wael - Data Scientist & Web Developer Portfolio
+![Data Science & Web Development Banner](https://img.shields.io/badge/Data%20Science%20%26%20Web%20Development-Portfolio-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iY3VycmVudENvbG9yIiB3aWR0aD0iMjRweCIgaGVpZ2h0PSIyNHB4Ij48cGF0aCBkPSJNMTIgMGMuMTkuMTYgLjM4LjMyLjU3LjQ5TDE4LjMxIDEyLjIyYy4yNy4yLjQ3LjU1LjcyLjkyLjM0LjU2LjU2IDEuMTQuNTYgMS43MnMtLjIyIDEuMTctLjU2IDEuNzJjLS4yNS40Mi0uNDQuNzItLjcyLjkyYy0xLjYyIDEuMDgtMy41IDEuNjgtNS40MyAxLjY4LTIuNzEgMC01LjM2LTEuMTctNi45OS0yLjk5LS41OS0uNjUtLjgyLTEuNDItLjgyLTEuNjgtMC0uMjYuLjQ2LS41My43MS0uNzJsNS40My01LjU0Yy4xOS0uMTYuMzgtLjMyLjU3LS40OWgtMGEyIDEyIDAgMCAwIDAtLjR6Ii8+PC9zdmc+)
 
-![Data Science & Web Development Portfolio](https://via.placeholder.com/1200x400/0d1117/ffffff?text=Data+Science+%2526+Web+Development+Portfolio)
-*(Note: You can replace this placeholder image with an actual relevant image or remove it if you prefer.)*
+*(Note: The above is a badge acting as a stylized header. You can also use an actual image file by uploading it and linking it like: `![Header Image](path/to/your/image.png)`)*
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-Data-Driven Business Analyst & Web Developer | Enhancing digital banking and web experiences with data science and code.
+**Data-Driven Business Analyst & Web Developer** | Enhancing digital banking and web experiences with data science and code.
 
 Passionate Business Information Systems student skilled in solving real-world problems through data analysis, web development, and Python programming. Combining expertise in data science, full-stack development, and user-centered design to improve platforms in finance, e-commerce, and digital services.
 
@@ -55,22 +54,12 @@ Arab Academy for Science, Technology and Maritime Transport
 
 ## 📜 Certifications
 
-*(This section effectively summarizes your certifications. You might want to consider making these more easily discoverable if possible, e.g., links to Coursera/IBM profiles, or even uploading certs as PDFs in a `certs/` folder and linking them.)*
+*(Consider uploading certificate PDFs to a `certificates/` folder in this repo and linking them for direct viewing.)*
 
-*   **Python Specialization (University of Michigan):**
-    *   Using Python to Access Web Data
-    *   Python Data Structures
-    *   Python Fundamentals (assumed from 'Python for Everybody' context)
-*   **Data Science (IBM):**
-    *   Tools for Data Science
-    *   What is Data Science?
-    *   Data Science Orientation
-*   **Professional Development:**
-    *   AI Augmented Professional Skills (ALX)
-    *   Data Science & Analytics (HP LIFE)
-    *   Effective Leadership (HP LIFE)
-    *   Presenting Data (HP LIFE)
-    *   Effective Presentations (HP LIFE)
+*   **IBM Data Science Specialization**
+*   **Python for Everybody (University of Michigan)**
+*   **ALX - AI Augmented Professional Development Skills Program** *(Certificate of Achievement)*
+*   **HP LIFE Certifications:** Data Science & Analytics, Effective Leadership, Presenting Data, Effective Presentations
 
 ---
 
@@ -110,7 +99,7 @@ Arab Academy for Science, Technology and Maritime Transport
 
 I'm always open to discussing data science projects, web development opportunities, or potential collaborations.
 
-[![Email](https://img.shields.io/badge/Email-youssefwmk%2540gmail.com-red?style=flat-square&logo=gmail)](mailto:youssef.wmk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-youssefwmk%40gmail.com-red?style=flat-square&logo=gmail)](mailto:youssef.wmk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/youssef-wael-9b170026a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Youssefwael45)
 
