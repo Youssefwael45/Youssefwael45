@@ -2,12 +2,6 @@
 
 ---
 
-![Data Science & Web Development Banner](https://img.shields.io/badge/Data%20Science%20%26%20Web%20Development-Portfolio-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iY3VycmVudENvbG9yIiB3aWR0aD0iMjRweCIgaGVpZ2h0PSIyNHB4Ij48cGF0aCBkPSJNMTIgMGMuMTkuMTYgLjM4LjMyLjU3LjQ5TDE4LjMxIDEyLjIyYy4yNy4yLjQ3LjU1LjcyLjkyLjM0LjU2LjU2IDEuMTQuNTYgMS43MnMtLjIyIDEuMTctLjU2IDEuNzJjLS4yNS40Mi0uNDQuNzItLjcyLjkyYy0xLjYyIDEuMDgtMy41IDEuNjgtNS40MyAxLjY4LTIuNzEgMC01LjM2LTEuMTctNi45OS0yLjk5LS41OS0uNjUtLjgyLTEuNDItLjgyLTEuNjgtMC0uMjYuLjQ2LS41My43MS0uNzJsNS40My01LjU0Yy4xOS0uMTYuMzgtLjMyLjU3LS40OWgtMGEyIDEyIDAgMCAwIDAtLjR6Ii8+PC9zdmc+)
-
-*(Note: The above is a badge acting as a stylized header. You can also use an actual image file by uploading it and linking it like: `![Header Image](path/to/your/image.png)`)*
-
----
-
 ## 👨‍💻 Professional Summary
 
 **Data-Driven Business Analyst & Web Developer** | Enhancing digital banking and web experiences with data science and code.
@@ -54,12 +48,31 @@ Arab Academy for Science, Technology and Maritime Transport
 
 ## 📜 Certifications
 
-*(Consider uploading certificate PDFs to a `certificates/` folder in this repo and linking them for direct viewing.)*
+Python Specialization (University of Michigan):
 
-*   **IBM Data Science Specialization**
-*   **Python for Everybody (University of Michigan)**
-*   **ALX - AI Augmented Professional Development Skills Program** *(Certificate of Achievement)*
-*   **HP LIFE Certifications:** Data Science & Analytics, Effective Leadership, Presenting Data, Effective Presentations
+Python to Access Web Data
+
+Python Data Structures
+
+Python Fundamentals
+
+Data Science (IBM):
+
+Tools for Data Science
+
+What is Data Science
+
+Professional Development:
+
+AI Augmented Professional Skills (ALX)
+
+Data Science & Analytics (HP LIFE)
+
+Effective Leadership (HP LIFE)
+
+Presenting Data (HP LIFE)
+
+Effective Presentations (HP LIFE)
 
 ---
 
